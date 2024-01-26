@@ -1,6 +1,6 @@
 // Practise Codewars - Even or Odd
 // Difficuilt Easiest
-// https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/solutions/javascript?filter=me&sort=oldest&invalids=false
+// https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/javascript
 
 
 // option 1 
