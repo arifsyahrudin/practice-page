@@ -1,4 +1,4 @@
-// Practise Codewars - Even or Odd
+// Practice #1 Codewars - Even or Odd
 // Difficuilt Easiest
 // https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/javascript
 

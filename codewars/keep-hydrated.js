@@ -1,4 +1,4 @@
-// Practice Codewars - Keep Hydrated
+// Practice #3 Codewars - Keep Hydrated
 // Difficuilt Easiest
 // https://www.codewars.com/kata/582cb0224e56e068d800003c/javascript
 

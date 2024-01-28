@@ -1,4 +1,4 @@
-// Practice Codewars - Sum of Positive
+// Practice #2 Codewars - Sum of Positive
 // Difficuilt Easiest
 // https://www.codewars.com/kata/5715eaedb436cf5606000381/javascript
 
