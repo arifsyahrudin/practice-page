@@ -2,7 +2,6 @@
 // Difficuilt Easiest
 // https://www.codewars.com/kata/576b93db1129fcf2200001e6/javascript
 
-
 const sumArray = (array) => {
   if (!Array.isArray(array) || array.length <= 1) {
     return 0;
